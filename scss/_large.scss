@@ -1,0 +1,12 @@
+header, nav, main {
+    max-width: 960px;
+    margin: auto;
+}
+
+/* NAVIGATION STUFF GOES HERE  */
+nav ul{
+    justify-content: flex-end;
+    li a{
+        padding: .4rem 1rem;
+    }
+}
