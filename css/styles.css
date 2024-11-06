@@ -391,6 +391,10 @@ video {
   margin-left: 5%;
 }
 
+h2 {
+  margin: 0.2rem;
+}
+
 details {
   margin: 0.5rem 10px;
 }
